@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Corto 1 - trimestre 3 - José López/1.0.0": {
+        "runtime": {
+          "Corto 1 - trimestre 3 - José López.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Corto 1 - trimestre 3 - José López/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
